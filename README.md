@@ -4,6 +4,15 @@
 
 飞书文档 → Markdown → GitHub 多平台发布
 
+## 📚 我的博客发布记录
+
+| 文章 | 知乎 | 微信公众号 | AWS官方博客 | 其他 | 发布日期 |
+|------|------|------------|-------------|------|----------|
+| [普通人如何快速入门AI Agent](posts/普通人如何快速入门AI-Age/index.md) | [链接](https://zhuanlan.zhihu.com/p/1999470851620368653) | - | - | - | 2026-01-27 |
+
+
+---
+
 ## 快速开始
 
 ### 1. 安装 feishu2md
@@ -40,13 +49,8 @@ feishu2md dl --wiki https://xxx.feishu.cn/wiki/settings/xxxxx -o posts/
 │       └── *.png         # 文章图片
 ├── scripts/
 │   └── sync.sh           # 同步脚本
-├── PUBLISH.md            # 多平台发布记录
 └── README.md
 ```
-
-## 发布记录
-
-查看 [PUBLISH.md](PUBLISH.md) 管理文章在各平台的发布状态和链接。
 
 ## 飞书应用配置
 
