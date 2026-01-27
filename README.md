@@ -8,9 +8,10 @@
 
 | 文章 | 知乎 | 微信公众号 | AWS官方博客 | 其他 | 发布日期 |
 |------|------|------------|-------------|------|----------|
+| [普通人如何快速入门AI Agent](posts/普通人如何快速入门AI-Age/index.md) | [链接](https://zhuanlan.zhihu.com/p/1999470851620368653) | - | - | - | 2026-01-27 |
+| [在Apache DataHub中整合Amazon Glue任务的数据血缘](https://aws.amazon.com/cn/blogs/china/integrate-amazon-glue-job-data-lineage-in-apache-datahub/) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/integrate-amazon-glue-job-data-lineage-in-apache-datahub/) | - | 2025-11-07 |
 | [Kiro 实战：DuckDB vs Spark 技术选型全流程](posts/Kiro实战-DuckDB-vs-Spark/index.md) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/duckdb-vs-spark-technology-selection-process/) | - | 2025-10-31 |
 | [Agentic AI for Data 系列：AI 驱动的数据革命（先导篇）](posts/Agentic-AI-for-Data/index.md) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/ai-driven-data-revolution-pilot-chapter/) | - | 2025-10-31 |
-| [普通人如何快速入门AI Agent](posts/普通人如何快速入门AI-Age/index.md) | [链接](https://zhuanlan.zhihu.com/p/1999470851620368653) | - | - | - | 2026-01-27 |
 
 
 ---
