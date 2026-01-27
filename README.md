@@ -40,8 +40,13 @@ feishu2md dl --wiki https://xxx.feishu.cn/wiki/settings/xxxxx -o posts/
 │       └── *.png         # 文章图片
 ├── scripts/
 │   └── sync.sh           # 同步脚本
+├── PUBLISH.md            # 多平台发布记录
 └── README.md
 ```
+
+## 发布记录
+
+查看 [PUBLISH.md](PUBLISH.md) 管理文章在各平台的发布状态和链接。
 
 ## 飞书应用配置
 
