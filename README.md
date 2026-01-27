@@ -9,10 +9,10 @@
 | 文章 |   知乎**   | 微信公众号 | AWS博客 | 其他 | 发布日期 |
 |------|------|------------|---------|------|----------|
 | [普通人如何快速入门 AI Agent？一篇讲清楚背景现状与工程原理](posts/普通人如何快速入门AI-Age/index.md) | [链接](https://zhuanlan.zhihu.com/p/1999470851620368653) | - | - | - | 2026-01-27 |
-| [不只是 Chatbot：如何设计一个真正可执行的 Agentic Commerce 电商系统](posts/Agentic-Commerce电商系统/index.md) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/beyond-chatbot-how-to-design-a-truly-executable-agentic-commerce-ecommerce-system/) | - | 2026-01-14 |
+| [不只是 Chatbot：如何设计一个真正可执行的 Agentic Commerce 电商系统](posts/Agentic-Commerce电商系统/index.md) | [链接](https://zhuanlan.zhihu.com/p/1994713934872220361) | - | [链接](https://aws.amazon.com/cn/blogs/china/beyond-chatbot-how-to-design-a-truly-executable-agentic-commerce-ecommerce-system/) | - | 2026-01-14 |
 | [在Apache DataHub中整合Amazon Glue任务的数据血缘](https://aws.amazon.com/cn/blogs/china/integrate-amazon-glue-job-data-lineage-in-apache-datahub/) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/integrate-amazon-glue-job-data-lineage-in-apache-datahub/) | - | 2025-11-07 |
 | [【Agentic AI for Data 系列】Kiro 实战：DuckDB vs Spark 技术选型全流程](posts/Kiro实战-DuckDB-vs-Spark/index.md) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/duckdb-vs-spark-technology-selection-process/) | - | 2025-10-31 |
-| [Agentic AI for Data 系列】开发新范式：AI 驱动的数据革命（先导篇）](posts/Agentic-AI-for-Data/index.md) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/ai-driven-data-revolution-pilot-chapter/) | - | 2025-10-31 |
+| [【Agentic AI for Data 系列】开发新范式：AI 驱动的数据革命（先导篇）](posts/Agentic-AI-for-Data/index.md) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/ai-driven-data-revolution-pilot-chapter/) | - | 2025-10-31 |
 
 
 ---
