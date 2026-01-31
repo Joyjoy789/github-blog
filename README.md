@@ -8,6 +8,7 @@
 
 | 文章 |   知乎**   | 微信公众号 | AWS博客 | 其他 | 发布日期 |
 |------|------|------------|---------|------|----------|
+| [Clawdbot 为何爆火? 我用它来"模拟人生"](posts/Clawdbot为何爆火/index.md) | [链接](https://zhuanlan.zhihu.com/p/2001086061795886502) | - | - | - | 2026-02-01 |
 | [普通人如何快速入门 AI Agent？一篇讲清楚背景现状与工程原理](posts/普通人如何快速入门AI-Age/index.md) | [链接](https://zhuanlan.zhihu.com/p/1999470851620368653) | - | - | - | 2026-01-27 |
 | [不只是 Chatbot：如何设计一个真正可执行的 Agentic Commerce 电商系统](posts/Agentic-Commerce电商系统/index.md) | [链接](https://zhuanlan.zhihu.com/p/1994713934872220361) | - | [链接](https://aws.amazon.com/cn/blogs/china/beyond-chatbot-how-to-design-a-truly-executable-agentic-commerce-ecommerce-system/) | - | 2026-01-14 |
 | [在Apache DataHub中整合Amazon Glue任务的数据血缘](https://aws.amazon.com/cn/blogs/china/integrate-amazon-glue-job-data-lineage-in-apache-datahub/) | - | - | [链接](https://aws.amazon.com/cn/blogs/china/integrate-amazon-glue-job-data-lineage-in-apache-datahub/) | - | 2025-11-07 |
